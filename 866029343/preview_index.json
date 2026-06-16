@@ -1,13 +1,19 @@
 {
   "qq_number": "3572368687",
   "group_number": "866029343",
+  "updated_at": "2026-06-16T09:39:35+00:00",
   "skins": [
     {
       "name": "牛乳限定",
       "file": "牛乳限定.bdi",
       "thumb": "牛乳限定.bdi_py_26_light_thumb.png",
       "full": "牛乳限定.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "萌物叽",
+      "file": "萌物叽.bdi",
+      "thumb": "萌物叽.bdi_py_26_light_thumb.png",
+      "full": "萌物叽.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-15T00:40:10+00:00"
+  ]
 }
