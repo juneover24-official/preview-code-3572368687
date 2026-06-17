@@ -1,7 +1,7 @@
 {
   "qq_number": "3572368687",
   "group_number": "866029343",
-  "updated_at": "2026-06-16T16:11:26+00:00",
+  "updated_at": "2026-06-17T09:52:51+00:00",
   "skins": [
     {
       "name": "牛乳限定",
@@ -26,6 +26,12 @@
       "file": "医疗器物.bdi",
       "thumb": "医疗器物.bdi_py_26_light_thumb.png",
       "full": "医疗器物.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "医疗器物",
+      "file": "医疗器物.bds",
+      "thumb": "医疗器物.bds_py_26_light_thumb.png",
+      "full": "医疗器物.bds_py_26_light_thumb.png"
     }
   ]
 }
