@@ -1,7 +1,7 @@
 {
   "qq_number": "3572368687",
   "group_number": "866029343",
-  "updated_at": "2026-10-30T11:42:00+00:00",
+  "updated_at": "2026-10-30T11:45:45+00:00",
   "skins": [
     {
       "name": "牛乳限定",
@@ -95,6 +95,13 @@
       "thumb": "奶白兔边偶.bds_py_26_light_thumb.png",
       "full": "奶白兔边偶.bds_py_26_light_thumb.png",
       "file_id": "a4a8ee474c998e050ccb0fa35601b31c"
+    },
+    {
+      "name": "萌系下午茶",
+      "file": "萌系下午茶.bds",
+      "thumb": "萌系下午茶.bds_py_26_light_thumb.png",
+      "full": "萌系下午茶.bds_py_26_light_thumb.png",
+      "file_id": "49fbf7c1ef3d396affde584abfbfa7d1"
     }
   ]
 }
